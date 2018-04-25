@@ -203,4 +203,4 @@ end
 
 And now we are done! Great job!
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/simple-partials-reading' title='Simple Partials'>Simple Partials</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Simple Partials</p>
